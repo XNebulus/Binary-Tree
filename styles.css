@@ -1,0 +1,18 @@
+#wraper {
+    width: 1000px;
+    margin-top: 15px;
+    padding: 0 15px 0 15px;
+    border-top: 1px black solid;
+    border-bottom: 1px black solid;
+}
+#numbers {
+    border: solid 1px black;
+    margin-top: 20px;
+    padding: 3px;
+    height: 300px;
+    max-width: 500px;
+    overflow: scroll;
+    overflow-x: hidden;
+    margin-bottom: 15px;    
+            
+}
