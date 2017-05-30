@@ -1,1 +1,1 @@
-# Binary-Tree
+# Binary tree search algorithm.
